@@ -1,5 +1,5 @@
 
-**The first lecture starts at 8:45 AM, Feb 19, 2024.**
+**The first lecture starts at 8:45 AM, Feb 17, 2025.**
 
 - [1. Important links](#1-important-links)
 - [2. Course description](#2-course-description)
@@ -10,7 +10,7 @@
   - [5.2. Group projects](#52-group-projects)
 - [6. Detailed schedule](#6-detailed-schedule)
 
-This repository contains the materials of the **MSc on Distributed Deep Learning Systems** course running in Spring 2024 at UniNE.
+This repository contains the materials of the **MSc on Distributed Deep Learning Systems** course running in Spring 2025 at UniNE.
 
 ##  1. Important links
 
@@ -36,7 +36,7 @@ The course materials will be based on a mixture of classic and recently publishe
 ##  4. Course team
 
 This course will be mainly taught by [Prof. Lydia Y Chen](https://lydiaychen.github.io/).
-TAs are Abel Malan, Aditya Shankar, and Chaoyi Zhu, who will run the lab and grade homework.
+TAs are Abel Malan, Aditya Shankar, and Bart Cox, who will run the lab and grade homework.
 
 Lydia is the responsible instructor of this course and can be reached at **lydiaychen@ieee.org**.
 
@@ -67,26 +67,27 @@ The objective is to reproduce and improve the performance of a paper from the co
 - Group size: 1-2 students
 - Schedule: initial proposal (week 5), interim meeting (week 9), report due (week 14), and presentation/interview (week 14).
 
---> [UPDATE] We change the requirement. For the final project, you just need to submit ppt slides, which summarize the results. If you submit a report, you will be getting bonus point.
+
 
 At the end of each project phase we will conduct a short interview (20 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade.
 
 ##  6. Detailed schedule
 
-**Week**|**Lecture Topic**|**Lab Topic**|**Assigment Due**
+**Week**|**Lecture Topic**|**Lab Topic**|**Assignment Due**
 :-----|:-----|:-----|:-----
-Week 1 (Feb 19) | Distributed Machine Learning I | No Lab
-Week 2 (Feb 26) | Memory and Acceleration Technology | Setup & Intro
-Week 3 (Mar 4) | Federated Learning I (Horizontal) | FedSGD & FedAvg
-Week 4 (Mar 11) | Federated Learning II (Vertical) | HW1 | HW1
-Week 5 (Mar 18) | Heterogeneous and Multi-modality FL | VFL | Project proposal
-Week 6 (Mar 25) | Federated Generative AI | Generative Modelling
-Week 7 (Apr 1) | *No Lecture* | *No lecture* |
-Week 8 (Apr 8) | Hyper-parameter Tuning  | HW2 | HW2
-Week 9 (Apr 15) | Robust Distributed Learning | Attacks | Project midterm
-Week 10 (Apr 22) | Advanced Attacks and Defenses in Federated Learning | Defenses
-Week 11 (Apr 29) | Privacy Enhancing Technology for Federated Learning | HW3 | HW3
-Week 12 (May 6) | Distributed Inference *(online)* | Homework Review
-Week 13 (May 13) | Project Q&A (*afternoon*)
-Week 14 (May 20) | *No Lecture* | *No Lab* |
+Week 1 (Feb 17) | Distributed Machine Learning I | No Lab
+Week 2 (Feb 24) | Memory and Acceleration Technology | Setup & Intro
+Week 3 (Mar 3) | Federated Learning I (Horizontal) | FedSGD & FedAvg
+Week 4 (Mar 10) | Federated Learning II (Vertical) | HW1 | HW1
+Week 5 (Mar 17) | Heterogeneous and Multi-modality FL | VFL | Project proposal
+Week 6 (Mar 24) | Federated Generative AI |  Generative Modelling
+Week 7 (Mar 31) | Hyper-parameter Tuning | Q/A about HW2|
+Week 8 (Apr 7)  |  Robust Distributed Learning  | Attacks | HW2|
+Week 9 (Apr 14) | Attacks and Defenses I | Defenses |  Project midterm
+Week 10 (Apr 21) | *No Lecture* | *No Lab* |  |
+Week 11 (Apr 28) | Attacks and Defenses II | Q/A about HW3| 
+Week 12 (May 5 | Privacy Enhancing Technology for Federated Learning 
+ | | HW3
+Week 13 (May 12) | Distributed Inference 
+Week 14 (May 19) | *No Lecture* | *No Lab* |
 Week 15 (May 27) | Project presentation | *No Lab* | Project report
